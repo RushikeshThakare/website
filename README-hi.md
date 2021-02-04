@@ -23,7 +23,7 @@
 
 ## `README.md`'s स्थानीयकरण कुबरनेट्स प्रलेखन
 
-आप पर हिंदी स्थानीयकरण के maintainers तक पहुँच सकते हैं:
+आप  हिंदी स्थानीयकरण के maintainers तक पहुँच सकते हैं:
 
 * Yashu Mittal ([Twitter](https://twitter.com/mittalyashu77), [GitHub](https://github.com/mittalyashu))
 * [Slack channel](https://kubernetes.slack.com/messages/kubernetes-docs-hi)
